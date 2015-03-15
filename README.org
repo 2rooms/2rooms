@@ -1,0 +1,6 @@
+live coding project with SuperCollider, openFrameworks and other tools
+
+authors:
+
+- iannis zannos: SuperCollider
+- vicky bisbiki: openFrameworks
